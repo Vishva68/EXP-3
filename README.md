@@ -26,6 +26,7 @@ Theory:
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -39,16 +40,25 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection:
+
+CIRCUIT DIAGRAM: 
+<img width="1155" height="476" alt="image" src="https://github.com/user-attachments/assets/855682cb-0d0f-4ff7-aee0-0c9e61b56cee" />
+
+<img width="1167" height="495" alt="image" src="https://github.com/user-attachments/assets/27cb5e16-0b92-4e2d-b192-c8034859c689" />
+
 Tabulation:1
+<img width="1600" height="1042" alt="image" src="https://github.com/user-attachments/assets/fe7b7416-a2b5-4995-88d6-9d3f6aba6479" />
 
-![WhatsApp Image 2025-11-13 at 08 48 32_d8f9a79c](https://github.com/user-attachments/assets/5d26fc91-555c-4720-ae16-940b39f5db00)
+Cross connection: 
 
-	
-Cross connection: CIRCUIT DIAGRAM:
+CIRCUIT DIAGRAM:
+<img width="1183" height="505" alt="image" src="https://github.com/user-attachments/assets/18c48831-c83a-4f79-9f5b-e552b2b8f0bd" />
+
+<img width="1161" height="479" alt="image" src="https://github.com/user-attachments/assets/e83c0a59-abdc-4af6-aec5-0cd25dbec85b" />
+
 Tabulation:2
-
-![WhatsApp Image 2025-11-13 at 08 48 32_5d5a48ff](https://github.com/user-attachments/assets/4666eca4-826d-491a-bc4c-ec030f1088a6)
+<img width="1568" height="860" alt="image" src="https://github.com/user-attachments/assets/e728d0cb-4d86-45ca-85ce-49194d623c9c" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
